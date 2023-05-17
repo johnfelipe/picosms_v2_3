@@ -1,0 +1,7 @@
+### Send POST request with body as parameters
+POST https://sms.zimmymobile.com/inbound/signalwire
+Content-Type: application/x-www-form-urlencoded
+
+MessageSid=999&value=content
+
+###
